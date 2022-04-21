@@ -20,6 +20,14 @@ O propósito desta conta é documentar meu progresso enquanto estudo vários tó
 - Frameworks:
   - Django;
 
+###### Contato:
+
+**E-Mail:** mantovigiuliano1@gmail.com
+
+---
+
+Português 🇧🇷 | Inglês :us:
+
 # Welcome!
 
 I've created this account to document my progress as I learn about several aspects of programming and Computer Science.
@@ -41,3 +49,11 @@ I've created this account to document my progress as I learn about several aspec
   - HTML, CSS;
 - Frameworks:
   - Django; 
+
+###### Contact Information:
+
+**E-Mail:** mantovigiuliano1@gmail.com
+
+---
+
+Portugese 🇧🇷 | English :us:
