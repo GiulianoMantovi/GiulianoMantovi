@@ -10,7 +10,7 @@ O propósito desta conta é documentar meu progresso enquanto estudo vários tó
 
 ###### Contato:
 
-**E-Mail:** mantovigiuliano1@gmail.com
+**E-Mail:** mantovigiuliano0@gmail.com
 
 ---
 
