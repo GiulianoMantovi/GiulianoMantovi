@@ -1,6 +1,6 @@
 # Hello, I'm Giuliano Mantovi!
 
-## Data Science Student and Developer
+## Data Science Student | Java Developer
 
 🌎 Currently living in Rio de Janeiro, Brazil
 
