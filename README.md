@@ -1,17 +1,12 @@
-# Bem Vindo!
+# Hello, I'm Giuliano Mantovi!
 
-O propósito desta conta é documentar meu progresso enquanto estudo vários tópicos relacionados à computação.
+## Data Science Student and Developer
 
-#### Um pouco sobre mim:
+🌎 Currently living in Rio de Janeiro, Brazil
 
-- Me chamo Giuliano Mantovi;
-- Nasci e moro atualmente no Brasil;
-- Estudo Ciência de Dados (Instituto Infnet);
+✉️ You can contact me at mantovigiuliano0@gmail.com
 
-###### Contato:
-
-**E-Mail:** mantovigiuliano0@gmail.com
-
----
-
-Português 🇧🇷 | Inglês :us:
+## Skills
+<a href="java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+___
+Português 🇧🇷 | English :us:
