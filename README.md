@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" height="50" alt="SQLite" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="50" height="50" alt="Ubuntu" />
 </p>
+
 ___
 
 Português 🇧🇷 | English :us:
